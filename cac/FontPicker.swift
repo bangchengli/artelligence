@@ -1,9 +1,3 @@
-//
-//  FontPicker.swift
-//  cac
-//
-//  Created by 安室和成 on 7/12/23.
-//
 
 import SwiftUI
 
