@@ -1,9 +1,3 @@
-//
-//  ForumPost.swift
-//  cac
-//
-//  Created by 安室和成 on 7/26/23.
-//
 
 import SwiftUI
 
